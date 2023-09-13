@@ -1,8 +1,1 @@
-salario = float(input("Salário: "))
-aumento = float(input("Aumento: "))
-
-aumentoSalario = salario * ( aumento / 100 )
-
-novoSalario = aumentoSalario + salario
-
-print(novoSalario)
+print(10 % 3 * 10 ** 2 + 1 - 10 * 4 / 2)
