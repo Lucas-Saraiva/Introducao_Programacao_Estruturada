@@ -6,3 +6,7 @@ Nesse repositório será gravado os arquivos dos desenvolvimentos durante as aul
     * Python
     * GitHub
     * VsCode
+
+2. Professores
+    * André
+    * Elisângela
